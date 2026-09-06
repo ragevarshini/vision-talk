@@ -1,0 +1,13 @@
+sentence-transformers
+chromadb
+PyPDF2
+torch
+python-dotenv
+openai
+streamlit
+
+streamlit
+requests
+python-dotenv
+SpeechRecognition
+pyttsx3
